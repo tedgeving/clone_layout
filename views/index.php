@@ -1,6 +1,3 @@
-
-
-	
 <h3>Create New Layout View</h3>
 <?php 
 	// Check to make sure there is at least one channel and one publish page layout 
