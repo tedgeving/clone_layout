@@ -23,6 +23,25 @@
  * @author		Ted Geving
  * @link		http://tedgeving.com/ee
  */
+ /*
+ ================================================================
+Clone Layout
+for EllisLab ExpressionEngine - by Ted Geving
+----------------------------------------------------------------
+Copyright (c) 2012 by Ted Geving
+================================================================
+THIS IS COPYRIGHTED SOFTWARE.
+----------------------------------------------------------------
+This software is based upon and derived from
+EllisLab ExpressionEngine software protected under
+copyright dated 2005 - 2008. Please see
+http://expressionengine.com/docs/license.html
+----------------------------------------------------------------
+USE THIS SOFTWARE AT YOUR OWN RISK. WE ASSUME
+NO WARRANTY OR LIABILITY FOR THIS SOFTWARE AS DETAILED
+IN THE LICENSE AGREEMENT.
+================================================================
+*/
 
 class Clone_layout_ext {
 		
