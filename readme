@@ -6,3 +6,15 @@ USE THIS SOFTWARE AT YOUR OWN RISK. WE ASSUME
 NO WARRANTY OR LIABILITY FOR THIS SOFTWARE AS DETAILED
 IN THE LICENSE AGREEMENT.
 --------------------------------------------------------
+
+
+INSTALLATION
+1. Make folder titled "clone_layout" in the following location:
+system/expressionengine/third_party/extensions/clone_layout   
+
+2. Unzip the file into "clone_layout"
+
+3. Go to add-ons -> extensions and enable "Publish Layout" module.
+
+One Publish Layout and One Channel must be presnet in order for the module to install. 
+Copy layotus and be happy.
