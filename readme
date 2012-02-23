@@ -1,4 +1,4 @@
-Expression Engine 2.0 Extension (EE 2.0)
+ExpressionEngine 2.0 Extension (EE 2.0)
 Clone/Copy a Publish Page Layout from one channel for a different group and/or channel
 
 --------------------------------------------------------
@@ -10,11 +10,12 @@ IN THE LICENSE AGREEMENT.
 
 INSTALLATION
 1. Make folder titled "clone_layout" in the following location:
-system/expressionengine/third_party/extensions/clone_layout   
+system/expressionengine/third_party/clone_layout  
 
 2. Unzip the file into "clone_layout"
 
-3. Go to add-ons -> extensions and enable "Publish Layout" module.
+3. Go to add-ons -> extensions and enable "Publish Layout" extension.
 
 One Publish Layout and One Channel must be presnet in order for the module to install. 
-Copy layotus and be happy.
+
+Copy layouts and be happy.
