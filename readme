@@ -9,6 +9,8 @@ IN THE LICENSE AGREEMENT.
 
 
 INSTALLATION
+IN THE LICENSE AGREEMENT.
+--------------------------------------------------------
 1. Make folder titled "clone_layout" in the following location:
 system/expressionengine/third_party/clone_layout  
 
@@ -16,6 +18,15 @@ system/expressionengine/third_party/clone_layout
 
 3. Go to add-ons -> extensions and enable "Publish Layout" extension.
 
-One Publish Layout and One Channel must be presnet in order for the module to install. 
+One Publish Layout and One Channel must be present in order for the module to install. 
 
 Copy layouts and be happy.
+
+
+NOTICE 
+--------------------------------------------------------
+Some errors have been reported when using this module with Structure.
+
+Also it has been pointed out that MX Tool Box can clone layouts (http://devot-ee.com/add-ons/mx-tool-box).
+
+That might be a better alternative for layout cloning than the above module.
